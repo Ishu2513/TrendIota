@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "IYxSK7U6wR4=",
   "success": true,
   "projectFilePath": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\TrendIota.csproj",
+=======
+  "dgSpecHash": "2Vr7Sz62V+o=",
+  "success": true,
+  "projectFilePath": "D:\\TrendIota\\TrendIota.csproj",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
   "expectedPackageFiles": [
     "C:\\Users\\ISHIKA\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ISHIKA\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

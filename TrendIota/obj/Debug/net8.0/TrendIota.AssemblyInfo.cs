@@ -16,7 +16,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrendIota")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1533c2b7a2ff85e0b672445d2cbad5bc5cc314f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
 [assembly: System.Reflection.AssemblyProductAttribute("TrendIota")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrendIota")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

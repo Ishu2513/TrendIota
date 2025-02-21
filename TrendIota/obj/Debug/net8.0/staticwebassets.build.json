@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "VlMxqO2kxBahvDQyPlZeJN6S7brzbRiukfZ2fpXB8+s=",
+=======
+  "Hash": "HkHLnrkrjX5JarNACTc7u/mdCwKGwmxlq+QZP/KAsfU=",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
   "Source": "TrendIota",
   "BasePath": "_content/TrendIota",
   "Mode": "Default",
@@ -10,7 +14,11 @@
     {
       "Name": "TrendIota\\wwwroot",
       "Source": "TrendIota",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "Pattern": "**"
     }
@@ -1277,10 +1285,17 @@
       "OriginalItemSpec": "C:\\Users\\ISHIKA\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.12\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TrendIota.styles.css",
       "SourceId": "TrendIota",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "D:\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TrendIota.styles.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "TrendIota#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,6 +1310,7 @@
       "Integrity": "xYDgrHRT+c6KH5FkzhMeAFfE6W/CTz26Zs7+T5MjC5M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TrendIota.styles.css"
     },
     {
@@ -1302,6 +1318,15 @@
       "SourceId": "TrendIota",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "D:\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TrendIota.styles.css"
+    },
+    {
+      "Identity": "D:\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TrendIota.bundle.scp.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "TrendIota#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,6 +1341,7 @@
       "Integrity": "xYDgrHRT+c6KH5FkzhMeAFfE6W/CTz26Zs7+T5MjC5M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TrendIota.bundle.scp.css"
     },
     {
@@ -1323,6 +1349,15 @@
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "OriginalItemSpec": "D:\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TrendIota.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\TrendIota\\wwwroot\\css\\site.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1375,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\favicon.ico",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\favicon.ico",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1361,10 +1403,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\images\\Aboutus.png",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\images\\Aboutus.png",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "images/Aboutus#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1382,6 +1431,7 @@
       "OriginalItemSpec": "wwwroot\\images\\Aboutus.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\images\\img1.png",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
@@ -1512,6 +1562,12 @@
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\images\\Logo.png",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "images/Logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1529,10 +1585,17 @@
       "OriginalItemSpec": "wwwroot\\images\\Logo.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\js\\site.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\js\\site.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1550,10 +1613,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1571,10 +1641,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1592,10 +1669,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1613,10 +1697,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1634,10 +1725,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1655,10 +1753,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1676,10 +1781,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1697,10 +1809,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1718,10 +1837,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1739,10 +1865,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1760,10 +1893,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1781,10 +1921,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1802,10 +1949,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1823,10 +1977,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1844,10 +2005,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1865,10 +2033,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1886,10 +2061,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1907,10 +2089,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1928,10 +2117,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1949,10 +2145,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1970,10 +2173,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1991,10 +2201,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2012,10 +2229,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2033,10 +2257,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2054,10 +2285,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2075,10 +2313,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2096,10 +2341,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2117,10 +2369,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2138,10 +2397,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2159,10 +2425,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2180,10 +2453,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2201,10 +2481,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2222,10 +2509,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2243,10 +2537,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2264,10 +2565,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2285,10 +2593,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2306,10 +2621,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2327,10 +2649,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2348,10 +2677,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2369,10 +2705,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2390,10 +2733,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2411,10 +2761,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2432,10 +2789,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2453,10 +2817,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2474,10 +2845,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2495,10 +2873,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2516,10 +2901,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2537,10 +2929,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2558,10 +2957,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2579,10 +2985,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2600,10 +3013,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2621,10 +3041,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2642,10 +3069,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2663,10 +3097,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2684,10 +3125,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2705,10 +3153,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2726,10 +3181,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TrendIota",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\",
+=======
+      "Identity": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "TrendIota",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TrendIota\\wwwroot\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "BasePath": "_content/TrendIota",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2750,7 +3212,11 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\css\\site.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\css\\site.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2787,7 +3253,11 @@
     },
     {
       "Route": "css/site.xu9n9z2w68.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\css\\site.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\css\\site.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2832,7 +3302,11 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\favicon.ico",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\favicon.ico",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2877,7 +3351,11 @@
     },
     {
       "Route": "favicon.ico",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\favicon.ico",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\favicon.ico",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5134,7 +5612,11 @@
     },
     {
       "Route": "images/Aboutus.png",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\images\\Aboutus.png",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\images\\Aboutus.png",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5171,7 +5653,11 @@
     },
     {
       "Route": "images/Aboutus.xf71x6ob8d.png",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\images\\Aboutus.png",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\images\\Aboutus.png",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5215,6 +5701,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "images/img1.mmfpv19dbr.png",
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\images\\img1.png",
       "Selectors": [],
@@ -5709,6 +6196,10 @@
     {
       "Route": "images/Logo.hldm0br781.png",
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\images\\Logo.png",
+=======
+      "Route": "images/Logo.hldm0br781.png",
+      "AssetFile": "D:\\TrendIota\\wwwroot\\images\\Logo.png",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5753,7 +6244,11 @@
     },
     {
       "Route": "images/Logo.png",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\images\\Logo.png",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\images\\Logo.png",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5790,7 +6285,11 @@
     },
     {
       "Route": "js/site.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\js\\site.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\js\\site.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5827,7 +6326,11 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\js\\site.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\js\\site.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5872,7 +6375,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5909,7 +6416,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5954,7 +6465,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5991,7 +6506,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6036,7 +6555,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6073,7 +6596,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6118,7 +6645,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6155,7 +6686,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6200,7 +6735,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6237,7 +6776,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6282,7 +6825,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6319,7 +6866,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6364,7 +6915,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6401,7 +6956,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6446,7 +7005,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6483,7 +7046,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6528,7 +7095,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6573,7 +7144,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6610,7 +7185,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6647,7 +7226,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6692,7 +7275,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6729,7 +7316,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6774,7 +7365,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6811,7 +7406,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6856,7 +7455,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6893,7 +7496,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6938,7 +7545,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6975,7 +7586,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7012,7 +7627,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7049,7 +7668,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7094,7 +7717,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7139,7 +7766,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7184,7 +7815,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7229,7 +7864,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7266,7 +7905,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7311,7 +7954,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7348,7 +7995,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7385,7 +8036,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7422,7 +8077,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7467,7 +8126,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7512,7 +8175,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7557,7 +8224,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7594,7 +8265,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7639,7 +8314,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7676,7 +8355,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7713,7 +8396,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7750,7 +8437,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7795,7 +8486,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7840,7 +8535,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7877,7 +8576,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7922,7 +8625,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7959,7 +8666,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8004,7 +8715,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8041,7 +8756,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8078,7 +8797,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8123,7 +8846,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8168,7 +8895,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8205,7 +8936,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8250,7 +8985,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8287,7 +9026,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8324,7 +9067,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8369,7 +9116,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8406,7 +9157,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8451,7 +9206,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8496,7 +9255,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8533,7 +9296,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8578,7 +9345,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8615,7 +9386,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8660,7 +9435,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8705,7 +9484,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8742,7 +9525,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8787,7 +9574,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8824,7 +9615,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8861,7 +9656,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8906,7 +9705,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8943,7 +9746,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8988,7 +9795,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9025,7 +9836,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9062,7 +9877,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9107,7 +9926,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9152,7 +9975,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9189,7 +10016,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9234,7 +10065,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9271,7 +10106,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9308,7 +10147,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9345,7 +10188,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9390,7 +10237,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9435,7 +10286,11 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9480,7 +10335,11 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\LICENSE",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\LICENSE",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9517,7 +10376,11 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\bootstrap\\LICENSE",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\bootstrap\\LICENSE",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9562,7 +10425,11 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9607,7 +10474,11 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9644,7 +10515,11 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9689,7 +10564,11 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9734,7 +10613,11 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9771,7 +10654,11 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9808,7 +10695,11 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\LICENSE.txt",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery\\LICENSE.txt",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9853,7 +10744,11 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery\\LICENSE.txt",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery\\LICENSE.txt",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9890,7 +10785,11 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9935,7 +10834,11 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9972,7 +10875,11 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10017,7 +10924,11 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10054,7 +10965,11 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10091,7 +11006,11 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10136,7 +11055,11 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10173,7 +11096,11 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10218,7 +11145,11 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10255,7 +11186,11 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10300,7 +11235,11 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10345,7 +11284,11 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10382,7 +11325,11 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10427,7 +11374,11 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10464,7 +11415,11 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10509,7 +11464,11 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+=======
+      "AssetFile": "D:\\TrendIota\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10546,7 +11505,11 @@
     },
     {
       "Route": "TrendIota.36an0bibqt.bundle.scp.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TrendIota.bundle.scp.css",
+=======
+      "AssetFile": "D:\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TrendIota.bundle.scp.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10591,7 +11554,11 @@
     },
     {
       "Route": "TrendIota.36an0bibqt.styles.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TrendIota.styles.css",
+=======
+      "AssetFile": "D:\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TrendIota.styles.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10636,7 +11603,11 @@
     },
     {
       "Route": "TrendIota.bundle.scp.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TrendIota.bundle.scp.css",
+=======
+      "AssetFile": "D:\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TrendIota.bundle.scp.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10673,7 +11644,11 @@
     },
     {
       "Route": "TrendIota.styles.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TrendIota.styles.css",
+=======
+      "AssetFile": "D:\\TrendIota\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TrendIota.styles.css",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Selectors": [],
       "ResponseHeaders": [
         {

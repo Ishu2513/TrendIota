@@ -154,6 +154,7 @@ D:\TrendIota\obj\Debug\net8.0\refint\TrendIota.dll
 D:\TrendIota\obj\Debug\net8.0\TrendIota.pdb
 D:\TrendIota\obj\Debug\net8.0\TrendIota.genruntimeconfig.cache
 D:\TrendIota\obj\Debug\net8.0\ref\TrendIota.dll
+<<<<<<< HEAD
 C:\Users\ISHIKA\Desktop\TrendIota\TrendIota\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\ISHIKA\Desktop\TrendIota\TrendIota\bin\Debug\net8.0\appsettings.json
 C:\Users\ISHIKA\Desktop\TrendIota\TrendIota\bin\Debug\net8.0\TrendIota.staticwebassets.endpoints.json
@@ -311,3 +312,5 @@ C:\Users\ISHIKA\Desktop\TrendIota\TrendIota\obj\Debug\net8.0\refint\TrendIota.dl
 C:\Users\ISHIKA\Desktop\TrendIota\TrendIota\obj\Debug\net8.0\TrendIota.pdb
 C:\Users\ISHIKA\Desktop\TrendIota\TrendIota\obj\Debug\net8.0\TrendIota.genruntimeconfig.cache
 C:\Users\ISHIKA\Desktop\TrendIota\TrendIota\obj\Debug\net8.0\ref\TrendIota.dll
+=======
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff

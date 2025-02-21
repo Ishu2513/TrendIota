@@ -1,12 +1,15 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\Aboutus.png
+<<<<<<< HEAD
 wwwroot\images\img1.png
 wwwroot\images\img2.png
 wwwroot\images\img3.png
 wwwroot\images\img4.png
 wwwroot\images\img5.png
 wwwroot\images\img6.png
+=======
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
 wwwroot\images\Logo.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

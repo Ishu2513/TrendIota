@@ -36,6 +36,7 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xf71x6ob8d"},{"Name":"integrity","Value":"sha256-7bSwgSm3BQYMu5ORc8fz0bo671UVG/lMNKWKVKwek38="},{"Name":"label","Value":"_content/TrendIota/images/Aboutus.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"228824"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227bSwgSm3BQYMu5ORc8fz0bo671UVG/lMNKWKVKwek38=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 22:59:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+<<<<<<< HEAD
     <StaticWebAssetEndpoint Include="_content/TrendIota/images/img1.mmfpv19dbr.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\img1.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -108,6 +109,8 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CYc3/t0mlDGwrsN9bCCSZB9do\u002B2sCLMBFIQS4BCZjJM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"563379"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022CYc3/t0mlDGwrsN9bCCSZB9do\u002B2sCLMBFIQS4BCZjJM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 03:40:45 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+=======
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
     <StaticWebAssetEndpoint Include="_content/TrendIota/images/Logo.hldm0br781.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Logo.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

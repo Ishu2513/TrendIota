@@ -2633,6 +2633,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "images/img1.mmfpv19dbr.png",
       "AssetFile": "images/img1.png",
       "Selectors": [],
@@ -3125,6 +3126,8 @@
       ]
     },
     {
+=======
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "Route": "js/site.js",
       "AssetFile": "js/site.js",
       "Selectors": [],

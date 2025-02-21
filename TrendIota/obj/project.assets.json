@@ -4458,11 +4458,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\TrendIota.csproj",
       "projectName": "TrendIota",
       "projectPath": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\TrendIota.csproj",
       "packagesPath": "C:\\Users\\ISHIKA\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ISHIKA\\Desktop\\TrendIota\\TrendIota\\obj\\",
+=======
+      "projectUniqueName": "D:\\TrendIota\\TrendIota.csproj",
+      "projectName": "TrendIota",
+      "projectPath": "D:\\TrendIota\\TrendIota.csproj",
+      "packagesPath": "C:\\Users\\ISHIKA\\.nuget\\packages\\",
+      "outputPath": "D:\\TrendIota\\obj\\",
+>>>>>>> 70091ebbccf3020a259e5ba91303008d292c5dff
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
