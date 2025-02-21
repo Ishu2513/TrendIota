@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
+//[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-TrendIota-a2bdb740-8bde-47eb-bbdb-268abcca0103")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrendIota")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3b68aa9a3be7cd3e0e4c772e0547abc723baecf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b0f2f58159bb47de5bfb25e516136ca714ef435")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrendIota")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrendIota")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
